@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="shadowDom.videoAnalytics"
+    errors="0" failures="1" hostname="" id="" package="shadowDom" skipped="0"
+    tests="1" time="58.31" timestamp="Wed, 29 Nov 2017 18:20:52 GMT">
+  
+    <testcase name="Capture video analytics" classname="shadowDom.videoAnalytics" time="58.31" assertions="3">
+
+    
+
+      <failure message="Failed [notEqual]: (null != null)">    at Object.&lt;anonymous&gt; (/Users/ssssss/work/github/universal-web-user-tests/uw-video/custom_commands/customGetShadowDomElement.js:68:17)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
