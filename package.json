@@ -1,10 +1,14 @@
 {
   "name": "xml2json",
-  "version": "1.0.0",
-  "description": "An utility to convert the XML test results file to JSON.",
-  "main": "xml-to-json.js",
+  "version": "0.1.0",
+  "description": "An utility to convert the XML formatted reports to JSON.",
+  "main": "index.js",
   "scripts": {
     "test": "node xml-to-json.js <XML results directory>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbmallik/xml2json"
   },
   "keywords": [
     "XML",
